@@ -1,1 +1,0 @@
-This is the first git project where I am getting familiar with git, and experimenting by inputing some contents into the file and test this on github. 
